@@ -1,9 +1,16 @@
 var gameover = new Phaser.Scene("gameOver");
 
-gameover.preload = function () {}
-gameover.create = function () {}
-gameover.update = function () {}
+gameover.preload = function () 
+{
 
-export {
-    gameover
-};
+}
+gameover.create = function () 
+{
+
+}
+gameover.update = function () 
+{
+
+}
+
+export {gameover};

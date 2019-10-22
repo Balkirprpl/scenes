@@ -20,7 +20,7 @@ var config = {
             gravity: {
                 y: 0
             },
-            debug: false
+            debug: true
         }
     },
     scene: [start, main, gameover]

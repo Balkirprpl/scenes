@@ -1,6 +1,4 @@
-import {
-    main
-} from "./main.js";
+import {main} from "./main.js";
 
 var start = new Phaser.Scene("SceneA");
 var pointer;
@@ -20,6 +18,4 @@ start.update = function () {
     }
 }
 
-export {
-    start
-};
+export {start};
